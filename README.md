@@ -38,7 +38,10 @@
 <br />
 
 <!-- Stats display -->
-[![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjula85&hide=stars&show_icon=true)](https://github.com/manjula85/github-readme-stats)
+[![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjula85&hide=stars&show_icons=true&theme=buefy)](https://github.com/manjula85/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjula85&langs_count=8)](https://github.com/manjula85/github-readme-stats)
+
 
 
 [twitter]: https://twitter.com/MGuneratne
