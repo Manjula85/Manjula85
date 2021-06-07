@@ -37,7 +37,8 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjula85)](https://github.com/manjula85/github-readme-stats)
+<!-- Stats display -->
+[![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjula85&hide=stars&show_icon=true)](https://github.com/manjula85/github-readme-stats)
 
 
 [twitter]: https://twitter.com/MGuneratne
