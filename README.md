@@ -43,7 +43,7 @@
 <!-- Most used languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjula85&layout=compact)](https://github.com/manjula85/github-readme-stats) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=github-readme-stats)](https://github.com/manjula85/github-readme-stats)
 
 
 [twitter]: https://twitter.com/MGuneratne
