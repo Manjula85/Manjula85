@@ -40,7 +40,11 @@
 <!-- Stats display -->
 [![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjula85&hide=stars&show_icons=true&theme=buefy)](https://github.com/manjula85/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjula85&langs_count=8)](https://github.com/manjula85/github-readme-stats)
+<!-- Most used languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjula85&layout=compact)](https://github.com/manjula85/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=github-readme-stats)](https://github.com/manjula85/github-readme-stats)
+
 
 
 
