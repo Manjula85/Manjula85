@@ -37,6 +37,8 @@
 <br />
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Manjula85=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/MGuneratne
 [instagram]: https://instagram.com/mguneratne3
 [linkedin]: https://linkedin.com/in/manjula-guneratne/
