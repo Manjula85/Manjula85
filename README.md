@@ -1,6 +1,6 @@
 ### Hi there, I'm Manjula 👋
 
-## I'm a Developer!!
+## I'm a Full-Stack Developer!!
 
 - 🌱 I’m currently learning heroku
 - 👯 I’m looking to collaborate with other content creators
@@ -43,7 +43,8 @@
 <!-- Most used languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjula85&layout=compact)](https://github.com/manjula85/github-readme-stats) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=github-readme-stats)](https://github.com/manjula85/github-readme-stats)
+<!-- Not woking still -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=github-readme-stats)](https://github.com/manjula85/github-readme-stats) -->
 
 
 [twitter]: https://twitter.com/MGuneratne
