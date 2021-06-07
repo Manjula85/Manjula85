@@ -41,12 +41,7 @@
 [![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjula85&hide=stars&show_icons=true&theme=buefy)](https://github.com/manjula85/github-readme-stats)
 
 <!-- Most used languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjula85&layout=compact)](https://github.com/manjula85/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=README)](https://github.com/manjula85/github-readme-stats)
-
-
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjula85&layout=compact)](https://github.com/manjula85/github-readme-stats) -->
 
 [twitter]: https://twitter.com/MGuneratne
 [instagram]: https://instagram.com/mguneratne3
