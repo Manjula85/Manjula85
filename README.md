@@ -44,7 +44,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjula85&layout=compact)](https://github.com/manjula85/github-readme-stats) -->
 
 <!-- PO number -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=PO-number)](https://github.com/manjula85/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=PO-number)](https://github.com/manjula85/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=walk-my-dog)](https://github.com/manjula85/github-readme-stats)
 <!-- Dog Dash -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=walk-my-dog)](https://github.com/manjula85/github-readme-stats)
 <!-- codersbay -->
