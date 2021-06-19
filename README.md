@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer!!
 
-- 🌱 I’m currently learning heroku
+- 🌱 I’m currently learning Geo-location API
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Start my development career
 - ⚡ Fun fact: I love to listen to music and play board games
@@ -14,8 +14,6 @@
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
-
-![](https://komarev.com/ghpvc/?username=Manjula85)
 
 ### Languages and Tools:
 
@@ -37,6 +35,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
 <br />
+![](https://komarev.com/ghpvc/?username=Manjula85)
 <br />
 
 <!-- Stats display -->
