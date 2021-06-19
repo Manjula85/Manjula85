@@ -39,8 +39,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Manjula85)
 
-<br />
-
 <!-- Stats display -->
 [![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjula85&hide=stars&show_icons=true&theme=buefy)](https://github.com/manjula85/github-readme-stats)
 
