@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer!!
 
-- 🌱 I’m currently learning Geocoding API
+- 🌱 I’m currently learning How to add Google Map API to React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Start my development career
 - ⚡ Fun fact: I love to listen to music and play board games
