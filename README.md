@@ -1,4 +1,5 @@
 ### Hi there, I'm Manjula 👋
+## mguneratne3@gmail.com
 
 ## I'm a Full-Stack Developer!!
 
