@@ -3,7 +3,7 @@
 
 ## I'm a Full-Stack Developer!!
 
-- 🌱 I’m currently learning Job application management app.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Start my development career
 - ⚡ Fun fact: I love to listen to music and play board games
