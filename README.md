@@ -4,7 +4,7 @@
 ## I'm a Full-Stack Developer!!
 
 - 🧑‍🎓 I’m hoping to learn Typescript next.
-- 🌱 Working on the 'Job applications: management repo right now.
+- 🌱 Working on the 'Job applications: management' repo right now.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Start my development career
 - ⚡ Fun fact: I love to listen to music and play board games
