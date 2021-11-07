@@ -1,7 +1,7 @@
 ### Hi there, I'm Manjula 👋
 #### mguneratne3@gmail.com
 
-## I'm a Full-Stack Developer!!
+## I'm a Full-Stack Developer!!!
 
 - 🧑‍🎓 I’m hoping to learn Typescript next.
 - 🌱 Working on the 'Job applications: management' repo right now.
