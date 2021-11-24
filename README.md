@@ -3,7 +3,7 @@
 
 ## I'm a Full-Stack Developer!!!
 
-- 🧑‍🎓 I’m hoping to learn Typescript next.
+- 🧑‍🎓 I’m hoping to learn Python next.
 - 🌱 Working on the 'Job applications: management' repo right now.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Start my development career
