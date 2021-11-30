@@ -41,9 +41,6 @@
 
 ![](https://komarev.com/ghpvc/?username=manjula-gunerantne)
 
-<!-- Stats display -->
-[![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjula-gunerantne&hide=stars&show_icons=true&theme=buefy)](https://github.com/manjula-gunerantne/github-readme-stats)
- 
 
 [twitter]: https://twitter.com/MGuneratne
 [instagram]: https://instagram.com/mguneratne3
