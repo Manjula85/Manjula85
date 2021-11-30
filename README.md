@@ -46,18 +46,7 @@
 
 <!-- Most used languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- PO number
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula-gunerantne&repo=PO-number)](https://github.com/manjula-gunerantne/github-readme-stats)
-Dog Dash
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula-gunerantne&repo=walk-my-dog)](https://github.com/manjula-gunerantne/github-readme-stats)
-project1-group07
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula-gunerantne&repo=project1-group07)](https://github.com/manjula-gunerantne/github-readme-stats)
-react-portfolio-manjula
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula-gunerantne&repo=react-portfolio-manjula)](https://github.com/manjula-gunerantne/github-readme-stats)
-codersbay
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula-gunerantne&repo=codersbay)](https://github.com/manjula-gunerantne/github-readme-stats) --> 
-
+ 
 
 [twitter]: https://twitter.com/MGuneratne
 [instagram]: https://instagram.com/mguneratne3
