@@ -39,24 +39,24 @@
 <br />
 <br />
 
-![](https://komarev.com/ghpvc/?username=Manjula85)
+![](https://komarev.com/ghpvc/?username=manjula-gunerantne)
 
 <!-- Stats display -->
-[![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjula85&hide=stars&show_icons=true&theme=buefy)](https://github.com/manjula85/github-readme-stats)
+[![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjula-gunerantne&hide=stars&show_icons=true&theme=buefy)](https://github.com/manjula-gunerantne/github-readme-stats)
 
 <!-- Most used languages -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjula85&layout=compact)](https://github.com/manjula85/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjula-gunerantne&layout=compact)](https://github.com/manjula-gunerantne/github-readme-stats) -->
 
 <!-- PO number
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=PO-number)](https://github.com/manjula85/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula-gunerantne&repo=PO-number)](https://github.com/manjula-gunerantne/github-readme-stats)
 Dog Dash
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=walk-my-dog)](https://github.com/manjula85/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula-gunerantne&repo=walk-my-dog)](https://github.com/manjula-gunerantne/github-readme-stats)
 project1-group07
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=project1-group07)](https://github.com/manjula85/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula-gunerantne&repo=project1-group07)](https://github.com/manjula-gunerantne/github-readme-stats)
 react-portfolio-manjula
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=react-portfolio-manjula)](https://github.com/manjula85/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula-gunerantne&repo=react-portfolio-manjula)](https://github.com/manjula-gunerantne/github-readme-stats)
 codersbay
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula85&repo=codersbay)](https://github.com/manjula85/github-readme-stats) --> 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjula-gunerantne&repo=codersbay)](https://github.com/manjula-gunerantne/github-readme-stats) --> 
 
 
 [twitter]: https://twitter.com/MGuneratne
