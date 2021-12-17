@@ -4,7 +4,7 @@
 ## I'm a Full-Stack Developer!!!
 
 - 🧑‍🎓 I’m hoping to learn Python next.
-- 🌱 Working on the 'Job applications: management' repo right now.
+- 🌱 Working on a new 'Regional job salary display repo' design right now.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Start my development career
 - ⚡ Fun fact: I love to listen to music and play board games
